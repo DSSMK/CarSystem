@@ -1,0 +1,14 @@
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.AssemblyInfoInputs.cache
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.AssemblyInfo.cs
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.csproj.CoreCompileInputs.cache
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\bin\Debug\net8.0\CarSystem.exe
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\bin\Debug\net8.0\CarSystem.deps.json
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\bin\Debug\net8.0\CarSystem.runtimeconfig.json
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\bin\Debug\net8.0\CarSystem.dll
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\bin\Debug\net8.0\CarSystem.pdb
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.dll
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\refint\CarSystem.dll
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.pdb
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\CarSystem.genruntimeconfig.cache
+C:\Users\dalia\OneDrive\Desktop\New folder\CarSystem\obj\Debug\net8.0\ref\CarSystem.dll
